@@ -1,0 +1,12 @@
+.card {
+  margin: 1rem 0rem;
+}
+
+.cardfooter {
+  display: none;
+  transition: 0.5s linear;
+}
+
+.card:hover > .cardfooter {
+  display: block;
+}

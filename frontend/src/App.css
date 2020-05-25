@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom, #ffa9bf, #8483ff);
+}
+
+h2 {
+  color: aliceblue;
+}
